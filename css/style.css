@@ -2,7 +2,7 @@ body {
    color:  #F2F6FF;
 }
 .background{
-    background-image: url(../gambar/covid.png), url(../gambar/covid.png);
+    background-image: url(../covid.png), url(../covid.png);
     background-repeat: no-repeat;
     background-position: 77% 50%, 21% 95%;
     background-size: 100px, 150px;
@@ -13,7 +13,6 @@ body {
     padding-bottom: 10px;
 }
 .input-keyword{
-    opacity: 0.8;
     border: none;
 }
 .btn{
